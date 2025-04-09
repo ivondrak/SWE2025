@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="640px" height="821px" viewBox="-0.5 -0.5 640 821" content="&lt;mxfile&gt;&lt;diagram id=&quot;z3wxUy-O0h4SPPBS5pIf&quot; name=&quot;UseCase&quot;&gt;7Vpbk6I4FP41Pu4WEEB9tHW2p2pntqxyZ3fmMUoaUh0IG2Kr++s3gUQJlx5dEJ1yXpScXAjf+c4lB0ZgHu+fGUyjzzRAZORYwX4EFiPHmU588SsFh0Lge9NCEDIcFCL7JFjhf5ESWkq6xQHKjIGcUsJxago3NEnQhhsyyBjdmcNeKDHvmsIQ1QSrDSR16d844FEhnXjWSf4R4TDSd7Yt1RNDPVgJsggGdFcSgQ8jMGeU8uIq3s8RkdhpXIp5v7X0HjfGUMLPmeAUE94g2apnGzk+EVOfAvwmLkN5qUUvVCwq9swPCgj/ny3VHb9kuZpmYoDtp/timuqvLrTWglkQ40RLxS7X1ZFCVty1Jjb25xjbcgSqqbzcxmS24ZSJMW+IcSw0+AmuEVnSDHNMEzFkTTmncWnAjOBQdnCaCmnEYyIa9vEuZWgV2nIm2pdECupnRGPE2UEM0b1gUkxRvAeaBrsTi1yvEEUlAk3VMKh4Gx5XPqlWXCjtNmvab9B0BTZGt0mA5HhLPO8uwhytUriRvTthx73D4dgmHE4THNrmy3j4Vg+AaERKAKBAmLlqJjRB5hOjPeZfJTi/eqr1zWgt9gq5vHEoNZaIYbE/xLQsEXv9qpeVjdJKsnlaKm/ptVoxz+iWbdRDjJVDhCxEapSjOCWf713FMEQgx2+mm+sCMgAPA7Lt3gxk93FABrcCeXxJpKzFsbND57gldH7JBObfDYpN8fNHDJS+b0YG3x8uUDoXuyxtA9ZlNhDALMqj7buglQ1Cx0LDtzu3sgi9mwaTOJvuXgvd5wxBjsSIP9BO/P4Js9dW9leVRYg4B6BhMpgKTx23zlPbachgJj0Q1bavh/9fOMcd5jeEm5w3knfZa3aPegA6IdSJ9aB6aD9EddbDAhHE7xr6qgm4YEDotZo7Zj66pyXvGc6/gwb/3nvurqYuKc7JqfToTk0T8qv6KTalZlVUdNzGeQYDhnFcPowl35N1ln6/pNCl3tG2GZhlIkcSHCjst1tRY0ijdiv+1Gs4mV/NqMG0F6M+2vGtjdodwqjPDlZuq+1lKUw60X2F+DFXs1Yc8m05YhXL3yG5x0NGLHvcD7m7nNUvpPxZLHfqJNd50Q1I7j0OyNbNQL5d/fR/g2XfCiynflb+DJn0kwuY4Pzt2BK+4iSESUNCspz9blmyLnFWoiDcIDeRh6pUQ9CL7KlWcGIcBHLyE0PCy8N1vpDEOZXJXv7U3tPIW8iVtpwWkSBfOOOMvqI5JbJ0pFX+ggmpiPrw2p7htJsOeG6Dz3b7qAh1P2gD59xXYs9FEI0EFzJJDwmgY33J5O8c5n8LDEMG44vem53NkY1QEWI/KkuOHDhoJ1XniTdu4InXB0/aCwGdc6tZfpQ4pVectqZWreeZzpuoFKGbbntPh5jKiRYMmefpDP8aXPhEQ+Ot+f1k1pNKDWFIxEEP5VCr3UsXtQRSb20zlB0l5ujBXHKTas23+X1oV58dtXb1m5KSdv0G5YI+lNtDjfWnct9VLjCVO5kMp9x2X3lV5QqdoCR4FP1WgqFdd81X02/Tt0ePVXNyKnmpN2hknNSf/bblkNF1iiGaaFc/34vm6RvN4g3I6UNX8OE/&lt;/diagram&gt;&lt;diagram id=&quot;hrt09E19uArESOeCRtVs&quot; name=&quot;CreateActivity&quot;&gt;5Vptc+I2EP41fLyO5TfgI4Fc2rm5KR1y00u/ZBSs2GqMRWVBoL++ki3hFwk7vmAg1w9xrJW0lp99drUrM3Cmq90dhevoKwlQPLCtYDdwZgPbHg99fhWCfS7wx14uCCkOchEoBAv8L5JCS0o3OEBpZSAjJGZ4XRUuSZKgJavIIKXktTrsmcTVp65hiDTBYgljXfonDliUS0eeVch/RTiM1JOBJXtWUA2WgjSCAXktiZzbgTOlhLD8brWbolhgp3DJ530+0ntYGEUJe8uE2+C37R3wJ/cT8O1u76Z3Ebz/NMy1bGG8kS8sF8v2CoGQks1af5h8/hZRhnYmU8AnpaF4W84SRFaI0T0fJ2c5CjHJEC7I268F3rbCOyph7auBUNo4POguYOA3EokOqNjtqHBQkgAJJdbAuXmNMEOLNVyK3lfuCFwWsRV/6AzwWx29RmPUIdWhuxw0vgEaP+aPvXkm/OXKGPn/bIjq+JRmnj3hA4C/3mWYqH5+F4r/i33K0Eqp46vLNeadmgE4RKyKMoxxmPD7JUcZUS4QQGLuyhPZscJBIKbfUMSXI/kpzLcmOGEZUt7NwJsJXRtG8iVnqlNGyQuakphwvbOEJELLM47jmujkht6peFNxEeBpHjIysKA//7A0FtzD9EVMS/llvnmKcRpx7xDBWlwiJIwn7XvUk0C7J0G6lHuEZ/WIt1/F2xnqIQnYJsS9nhAfXT5Oe1cXpkE7KH2E6dERRK8pTHv9helJsMLJ/yFKv93OKtmteoghSg/PGaWB7g4o4MmtbEowSqZBSTARKTNvkjVKcslnLJ466xBtJW4p2dAlalqffHEGaYiaFALp6GL1jXagKIYMb6up++lx1Xc/Heg45hVKnX8VgvYaeVSvNfylupV5OinVpnXqjeyv38mj9/j48Ojbf/hbF335e745gPd2Uu4w+y4IyF8kbz2UemY7yc2ssVeNMxNZFaYlIhtffnxdPNb3z9ssJtuWzOZmiEEcpw27am8pW2eq11I2YOtEP2/KZuvwLuAWHdD9eJja49H5MDVHD/Cho0dTUGjdBe2L7YJNyy6xe5KmIoM7RI+s9IP871sqgsoH5Du4dNmnglhnvoMS2wvuH+M7X2rJSUTzodxXTMtaal61tlpu6PbQ6O5CyrHb9lrbsNc2nlGczl2yqfy14L40QBYlhea5EBSUcu1a/uX6NVbkGguOHJb2jjCp+eZXSLMNHSY4O5+fwxechPBQxwV4q2q4+eSLZdlOqcIrdWp0PF7gxeiZXUl5d+wM5GggcKtGcw1xwDXEAfcEpZzRoLZm0K7lvGMfKeeVoiclmFIEWZGmWJMl9w7MBDozDEMKy0e0T3U1P8mBQGfGgHEt//R1zri+gTNeX5xxDJw595HhRc8Mjai47ai888yw0RhXcmZoXGOPZ4Z5BvhTRYh3mlkdGbZ+2DHFjN4oANwfzDe71Vc/lm92s0Fr3TXUE0kzJs6pE8l3mUj/Yl/+9JbXYMWXtzOUXqdxhFrp5XpnLL0azf62U94SYGkE16KfVzwLJjKppjPgvuAEoLrzeoZ0xDlnZBnp4F1NIdtWrTYUukeTp/ZC1vD1o8nhL1zH+sOqg/pgVONEpzqWN4tfPuXDi5+PObf/AQ==&lt;/diagram&gt;&lt;diagram name=&quot;ViewActivity&quot; id=&quot;HFq7FCK-MjjsdeRBBJfo&quot;&gt;5VnbUtswEP2aPNLxPeQxJNAyHWbShmnLEyNsxVbjWEZWbv36rmwpvsYQiCGlLyCtpLV89ujsyumZo8XmM0NxcEM9HPYMzdv0zHHPMAZ9B/4KwzYzOAM7M/iMeJlJzw1T8gdLoyatS+LhpDSRUxpyEpeNLo0i7PKSDTFG1+VpMxqWnxojH9cMUxeFdetP4vEgs57bWm7/gokfqCfrmhxZIDVZGpIAeXRdMJmXPXPEKOVZa7EZ4VBgp3AJv98Prgd3q0n/29aeXv+2Htn9Webs6pAlu1dgOOLHdW1krlcoXEq85LvyrQLQZ3QZP3MHcqcrzDjeNIUXPSi3OYLAPEwXmLMtzJOrLEOyTLLOMGUQ1nkMDRXDoBA/R01Ekjf+zneODTQkPAdAZT4NFSAVeVg40XrmxTogHE9j5IrRNRwusAV8AQ8d69B8JqTGHkjr0L0fNFYDNE4Ij72YUXi5IkbO45KqgbMkVYshTNCdeJNiosah5Yv/023C8UK5g91lHrPBWgAAIl5GGYXEj6DtAsqYgUEASUAehnJgQTxPLL9gGLYj+SnCF1MS8RQp+6Jnj4WvJafZllPXCWd0jkc0pOB3HNFIeJmRMKyYjh7ojdKw0hHR7doJOW9gQWcksGskuMLcDUD74WHp8luUzEWPRCIJBFjEToZ370HSnz5IiLky7dhah3A7FUUa9D/VEdeNJsjtjiB3TlS99f7JqXf/fdTb2QPpKan3eXfqPfQW4rB/fPF+fpxVXa09Jd79txTvQS0a2IMyWnYlFoXI4MgbiuIcujTGUWa5IuKh4wNEWMKW0CVzcZsyyffmiPm4VcLksRa7bw0DwyHiZFW+JBwdVrXvNtkBN3AXqtKvxM9OhUeNart8Jjlp1zmpMtmbZDcVywJ4EzjnSRY9ijxoPCw5p9F71A8HA1ypH/R+PSd2Vj1MfevnwLpa3Q9udedylMzP4qDh7jdMFyE3PRiFek38WZGECH0tlW9E6PJMAPsvRMA2Kgy3rIYYWB1xvDEG9aK5RR8KiCUBisU4qO6UI96uHp1Jhl5OYnYDnGZHWawRTacOXnsW2xD+S2Qs4EXWuyuMjDcymaWdrepEsNPCItG9K47ly9Jevq6rjNl2uIsJs42Ap5Iv62X6DWJzsIxRRNIPkxM0J5GPdlWlR1aqopwMv2qaYRbqzcJgjRr7y80Qz/gpF5v77mn7v6ZVZK9J9RrOqdVVtam//sphGnuuHMrRgzL8IHgNC7LcNhS5jXCBzZggn6Hip6WHqo+PfGM5mERG5ZOs7tRpZGkNNLK7knv9hXKv2ncl6T+u3Jc/JrhLttp1jpQJ1Ns/eXdqSAVtH/COlwrSpfCqaFuYIHmee54IQ6FIs8tFhSXFIidK5jGnzW5rL2eS+dLC4b9ikv3MmuLod/AXEcnUqtWp/RoiQTf/qS+bnv9eal7+BQ==&lt;/diagram&gt;&lt;diagram id=&quot;dgKDAC5Hj-cHiz6_mHhh&quot; name=&quot;AdminDeleteActivity&quot;&gt;5Vlbc+I2FP41PJLxBdnkkcCm6ezsDB06u91HYSu2GltyhLj11/cIS747kN04oVsewDqSjqXv3D6JkTtPD78JnMVfeEiSkWOFh5G7GDnOdOrDtxIcc4HnOrkgEjTMRXYpWNF/iBZaWrqlIdnUBkrOE0mzujDgjJFA1mRYCL6vD3vkSf2tGY5IS7AKcNKWfqOhjPW2kFXKHwiNYvNm29I9KTaDtWAT45DvKyL308idC85l/pQe5iRR2Blc8nn3Pb3FwgRh8pIJz5+//v07W0rbj5MgZpt19MfDWGvZ4WSrN6wXK48GgUjwbaaHESHJoQt3vDbDrfa67GK34CWEp0SKIwzRiiYOyqdoD3FcrWJf4u0YvOMK1p4ZiLWNo0J3CQM8aCRegYpzHhUAhYVEKbFG7t0+ppKsMhyo3j0EAshimcJLFzY89qJXRanfPm3oPg4atwMaL4HX3j1y2EkVI+95y03HeHOK7BkMsL3scMLE9MNTpH5Xx40kqVEHq8s15p0tAwCUso4yTmjE4DkASIkAgQKcQijPdEdKw1BNvxMElqNdVpkv45TJE1LoboQWStdW8nzJJ9UbKfgTmfOEg94F40xpeaRJ0hC9uaFNGq2HiI1aETLt8ILBnMC+IEBADeRoUjcR5MBM9RMWriSWTRRrMA8Gpm1qi0YTee2E4w4E53iSsM3068O3DFK/t/Sfd2w+dt02eiFUId3UvlWBEXYvjn8p571Bpvld+/KpsTjUWkfdyl+jdP8AnrA+vhUBeWkjpkJjEZEXFTrdFhIkwZLu6st7e7zbVe+esvC08M2Tms3UbnU6Aqt7OFUZPf8GyYIkBJwXxsekmNVbIOzzBQKLQFMfZA3o+ci5qSeSidN2fXuCOnwfDZRK0McTENu/OgLiXQ0BQddGQPzhCMgsTFXk/y/5R4+dtZbbesXs4B/+e/KP6avrZThTZ0Fo8oywXHJP1UvLKvmO9RS162nnuNtLy2lPgru4nOqpS+WHlcTooBur8nHcuhf4Dfvm69RKGiYuVvXjVr89nxRL0tlPK4dMi0aL5TcKLWpHjDtQme2kPHYHVoNQzHpZCrZiVzTOReHQ0WR3sNNusH42nH7ucNXPTvl4rfhmeKKfJV+9Cub5ckS0mKdjvSPzfMHKNZyXUJg3VX6/3krJ2X8TYffDub09aSH8BQt1wFpgRk/3xEv8RFmEC9YV0p1hXMvZ57zkFHys0vkKOpaQR3m9ZOzM3WjjuNZl0Q7iNRns4qfruPY69u06PezbKFobQRGFf+an8lkAyZdKBc+C4kjg6l3huqnm1+XvZ06zt427wo7brYnX4TRosOutX4N7XHoJdjHNcN+EtcO28LEyQPtiL6lHqHH76VsNC+caL6Tu0Cz/wsqHl/8Dup/+BQ==&lt;/diagram&gt;&lt;diagram id=&quot;XdyFTrioVIjb535Hpkw3&quot; name=&quot;SetTaskStatus&quot;&gt;3Vlbj9o4FP41SNuHjnLBgXkEMrMrbStNS6V2n1Ym8STeSezUcQbor+8xsRNyGSCrYaB9gfjYPrG/c/vsjNxFuvlT4Cz+yEOSjBwr3Ixcf+Q4t1MPfpVgWwo8dFsKIkHDUmTXgiX9QbTQ0tKChiRvDJScJ5JmTWHAGSOBbMiwEHzdHPbIk+ZbMxyRjmAZ4KQr/UpDGZfSKbJq+V+ERrF5s23pnhSbwVqQxzjk6z2RezdyF4JzWT6lmwVJFHYGl3Le/Qu91cIEYfKUCYKv/vU/bIPPd//9+D6fT4rF7NN7reUZJ4XesF6s3BoEIsGLrPsyM5MISTZ9psAro6HeLXgJ4SmRYgvj9Kyxg8p52kMcVwO2rvF2DN7xHtaeGYi1jaNKdw0DPGgkBqDiHEcFQGEhUUqskTtfx1SSZYYD1buGQABZLFN4qW/DYxe9g8ZoQ9qF7nLQuD3QeAm8dv7IYXP7GHnfC2463ue7yJ7BANvLNjtMTD88Rep/uc0lSY06WF2psezsGAAgkk2UcUIjBs8BoEwECBSQFEJ5pjtSGoZq+lwQWI72T2W+jFMmd0ih+Qj5SlchebnknepcCv5EFjzhoNdnnCktjzRJWqJXN/TG5JtGiNioEyHTHi84mxOg4/EBWiBFk6aFIAVmqp+wcCmxbIPYQPlsWNqmtGgwkdfNN+5boul1wQuhBumm9qw9FAEPsf2mXPcGmeY/2pN3DX/TaG11axigOS9EQA6Mm+hqjEVEDunTzqL2dNA8giRY0udm3X11sCcd172nLNztI39Sk5nau85EYHEPpyqZl78gWcSYwUaq8Tn4cZEfKA/28fKARaCJDxpup9MdHzk3zTQy7qm09hj1uD46kzWml6cf9uTq6MftZejH9AVIr4l+mNx9Dv4xC1MV/b8//Tjd0OYU16yYPfRj8pYF03EHVsxhuBytfLZzYumzr6v2mXWfxtteZmbnTC2m15q0ihXqOp37lqXKHg90uv9L05qpPSjEc9UA3jxTdxrQ5BlhpeSeqo0MYXgn+zk61c+96/Lz7vmkSfJkjFWpYISEuWIMitNRFl2Uzg0OEWTftG5O7Ns+PlcF0tuEidfB/gHqnYL5D8blO/j3Vag41qqQkrNfA2r3psUS3fGlqbPdPcl8xEJ5t48Z3V3CPuAn8GpccZqQPhs+8zD727JUHa3Yzl7nALKTkEd5JVRn8Hlo3DoN9Vm0h9aMz8Zt+05Dw7it67zAbY2iVXXZRpTCL2U+XOqsZ80CyM5UKpB8iiOB96/jVm1lvwlHHn6D5LXybs8NEnJ6XAedjRHbHfB/AXJy6k2TqSlHecjktWnIbirsCm/3BmhXrDU/KMFetUCtC8bptGXgUmNt7mppfR4AzfojUTm8/tLm3v0E&lt;/diagram&gt;&lt;diagram name=&quot;UserViewTask&quot; id=&quot;WdVefZLivBNLpAFCkBrF&quot;&gt;7Vpbd5s4EP41Pqd9SA/32I92XLfbbbfpcdNu96VHBgW0BkRA2Hh//UogmZt8a8BxsvtioxEaxDffjGYkBvpNkL2LQeR9wg70B5riZAN9OtC00dCiv0ywKQSWOSoEboycQqSWgjn6B3KhwqUpcmBSu5Fg7BMU1YU2DkNok5oMxDFe12+7x379qRFwYUswt4Hfln5HDvEK6dBUSvl7iFxPPFlVeE8AxM1ckHjAweuKSH870G9ijElxFWQ30GfYCVzuonfL8Ks5M1Jj802fJB8cK7sqlM1OGbJ9hRiGpFvVWqF6BfyU48XflWwEgG6M0+jIGfCZrmBMYCYzL1gItSWClHkQB5DEG3ofH2VoZjGOs07TuRHWpQ01YUOvYj9L3Ag4b9yt7hIbesHhOQEq/TBUFKnQgUyJMtAnaw8ROI+AzXrX1LmozCMBfehUpZdHQqrtgLQN3dNBY0igsXz62Mk9pi9Xxch6SLHouEryaDGmN6hWlOWYiH565bL/+SYhMBDq6OwKjUVnywAUIlJHGfjIDem1TVGGMRUwIBEND2PeESDHYcMnMaTT4fxk5oswCkmOlDkZmFOmKyW4mHKuOiExXsIb7GOqdxrikGm5R77fEHVu6EzEsJqLqGbLQ4YSFvRGArNFghkktkdjP31YPvwrSJa0ZYGAuUK4SKLC0LlpkwiEUqbYBZqMJbG7eEWnT+eniL/XUtYgpop4kClsEqh4kCBQfTIgSSgrqAezRWqrIk0oc3b7unrY10Fs85XRVHpkhPD6jQii7aCpyiKD2QEnNncPkb2arR4+JH8t1tns5+fllytVb+EGHbo88yZ3kApQMEPkT+aAb0ze+lHpmWbcN/PGRjRCOtXKINb8Ue0rh+WtcpwzZgkGbeIIhoVkhtgbTk+3UoLT2Ib7sBDZD4hdSPbdyDUypPZaPYY+IGhVT3S6t6FY1CuOjULmInfPxS+sRjIxlPiFJouVZl+YGv/7RZPuVb/Yt8BcilsckTrHHg4WafIEuaDoVesrgm60ma/3lCTIURu2UaPplabMWNig/yzT6jKrkwFfT9N7w75RwuiSqGOdE3utHcgL7P/A5GVawGiwX1JEnjVFtg6HjCepttXri6u2r4+Irj1U29YOSC+p2paE0K6q7SKje/m19vFmFtugB2vtvkK5dP6jljUOpI/dpHQctmpKJw9M/L0PpnSitjh/Trd33vuiDlWDoqRJvxo/e407ole5flPnpNnmpKhfuq5p5t5UXY1Hnz9CiCbp30FmfR+J1egllzRH819S6ksxUy6L/u0E8bcwStmSAgOA/OKZmuJjl22wnb/wP9lLGoW/Kil/eiv85RC3q8ZxPgrYuX23m6QKYj8rlCC2StJmuaOJ2Op6z5B9DiYwtUacMkYSIxg9RSq5EY44yinDfAWyxAMR66fBY04A2b8I9Bb5GzW9aZ6vppfD+R/YzDo68h+7mSU4eP7Qv28hqnjEqxi+/oiBU4akZxBsmhu9sgOQ88b79qnYJxAvqWQKQpR/aXELlih08zOpvO5y0ErUXLfj3xVF0ysVWaWzZZDdBZkP78kll2O7NjJ2fx7QWFJkK4rEzEZvIVC2s3NaTa5rO2pyoWhRL9KVbwiu6d+YJQ6IMHCmCLgxqJ51LppKXnJRfzKLNKWRHlptHhkyHnVxXioNwycfl/7iqljfOrPTeLVtdLRgimrw0IJpHrteal2vl/lQ+qpgU7mBc7bUfMsEJWV0pZ58WXzntDR6obGkwHZqjzg0OX275xnRYl8+cvisvPMNpF+ihdn88uJa6Z8W2+8ST6aFWiNFyZFLosXjzoovhBdWgxfmsBYuDt6vjx7FI9osP08tbi+/8dXf/gs=&lt;/diagram&gt;&lt;diagram name=&quot;SetTaskStatusUser&quot; id=&quot;Fd77pBKCk-LhWJh9_nos&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+=======
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="631px" height="821px" viewBox="-0.5 -0.5 631 821" content="&lt;mxfile&gt;&lt;diagram id=&quot;z3wxUy-O0h4SPPBS5pIf&quot; name=&quot;UseCase&quot;&gt;7Vpbk6I4FP41Pu4WEED70dbZnqqd2bLKnd2ZxyhpTHUgbBJb3V+/CSRKuPToguhUz4uSkwvhO9+55MAIzJL9E4PZ5jONEBl5TrQfgfnI81xn4ss/JTkUkvHYKwQxw5EedBIs8b/IzNTSLY4QtwYKSonAmS1c0zRFa2HJIGN0Zw97psS+awZjVBMs15DUpX/jSGwK6SRwTvKPCMcbc2fX0T0JNIO1gG9gRHclEfgwAjNGqSiukv0MEQWewaWY91tL73FjDKXinAka91dItvrZRl5I5NTHCL/Ky1hdGtEzlYvKPYuDBiL8Z0tNxy88V9NUDnDDbF9M0/3VhVZGMI0SnBqp3OWqOlLKirvWxNb+PGtbnkQ1U5fbhEzXgjI55hUxgaUGP8EVIgvKscA0lUNWVAialAZMCY5Vh6CZlG5EQmTDPd6lDK1GW81E+5JIQ/2EaIIEO8ghphdMiima98DQYHdikR8Uok2JQA96GNS8jY8rn1QrL7R2mzUdNmi6Ahuj2zRCarwjn3e3wQItM7hWvTtpyL3D4bk2HF4THMbmy3iETg+AGERKAKBImrlupjRF9hOjPRZfFTi/Brr1zWrN9xq5vHEoNRaIYbk/xIwslXv9apZVjdJKqnlaKm+ZtVox53TL1vohxtohQhYjPcrTnFLP96ZiGCJQ4FfbzXUBGYB3A7Lr3wxk//2ADG4F8viSSFmLY2eHznFL6PzCJebfDYpN8fNHDJRhaEeGMBwuUHoXuyxjA85lNhBBvsmj7ZuglQ3CxELLt3u3sgizmwaTOJvuQQvdZwxBgeSIP9BO/v4J+Usr+6vKIkSeA9AwGUyFp55f56nrNWQwkx6I6rrXw/8vnOMO8xvCdc4bxTv+wu9RD8AkhCaxHlQP7YeoznqYI4LEXUNfNQEfDAi9UXPHzMf0tOQ9w/l30ODfe8/d9dQFxTk5tR79B9uEwqp+ik3pWRUVHbdxnsGAYRxXCBPF93TFs++XFLrUO9o2AzmXOZLkQGG/3YoaQxq1X/GnQcPJ/GpGDR56MeqjHd/aqP0hjPrsYOW32h7PYNqJ7kskjrmasxRQbMsRq1j+Dsk9HjJiueN+yN3lrH4h5c9iuVcnucmLbkDy4P2A7NwM5NvVT/83WO6twPLqZ+XPkCk/OYcpzl+PLeALTmOYNiQki+nvjqPqEmclCtINCht5qEs1BD2rnmoFJ8FRpCY/MiS9PFzlCymcM5Xs5U8dPI6CuVppK2gRCfKFuWD0Bc0oUaUjo/JnTEhF1IfXDiyn3XTA8xt8tt9HRaj7QRt4574SeyqC6EZygSt6KAA95wtXvzOY/80xjBlMLnpvdjZH1lJFiP2oLDly4GCcVJ0nwbiBJ0EfPGkvBHTOrab5UeKUXgnamlq1nmc6b6JShG667T0dYionWjBknmcy/Gtw4RONrbfm95NZTyo1hCERBz2UQ512L13UEki9teWIHyX26MFccpNq7bf5fWjXnB2Nds2bkpJ2wwblgj6U20ON9ady31QusJU7mQyn3HZfeVXlSp2gNHov+q0EQ7fumq+m36Zvj95Xzcmr5KXBoJFxUn/225ZDRtcphhiiXf18L5unbzSLNyCnL13Bh/8A&lt;/diagram&gt;&lt;diagram id=&quot;hrt09E19uArESOeCRtVs&quot; name=&quot;CreateActivity&quot;&gt;5Vptc+I2EP41fLyO5TfgI4Fc2rm5KR1y00u/ZBSs2GqMRWVBoL++ki3hFwk7vmAg1w9xrJW0lp99drUrM3Cmq90dhevoKwlQPLCtYDdwZgPbHg99fhWCfS7wx14uCCkOchEoBAv8L5JCS0o3OEBpZSAjJGZ4XRUuSZKgJavIIKXktTrsmcTVp65hiDTBYgljXfonDliUS0eeVch/RTiM1JOBJXtWUA2WgjSCAXktiZzbgTOlhLD8brWbolhgp3DJ530+0ntYGEUJe8uE2+C37R3wJ/cT8O1u76Z3Ebz/NMy1bGG8kS8sF8v2CoGQks1af5h8/hZRhnYmU8AnpaF4W84SRFaI0T0fJ2c5CjHJEC7I268F3rbCOyph7auBUNo4POguYOA3EokOqNjtqHBQkgAJJdbAuXmNMEOLNVyK3lfuCFwWsRV/6AzwWx29RmPUIdWhuxw0vgEaP+aPvXkm/OXKGPn/bIjq+JRmnj3hA4C/3mWYqH5+F4r/i33K0Eqp46vLNeadmgE4RKyKMoxxmPD7JUcZUS4QQGLuyhPZscJBIKbfUMSXI/kpzLcmOGEZUt7NwJsJXRtG8iVnqlNGyQuakphwvbOEJELLM47jmujkht6peFNxEeBpHjIysKA//7A0FtzD9EVMS/llvnmKcRpx7xDBWlwiJIwn7XvUk0C7J0G6lHuEZ/WIt1/F2xnqIQnYJsS9nhAfXT5Oe1cXpkE7KH2E6dERRK8pTHv9helJsMLJ/yFKv93OKtmteoghSg/PGaWB7g4o4MmtbEowSqZBSTARKTNvkjVKcslnLJ466xBtJW4p2dAlalqffHEGaYiaFALp6GL1jXagKIYMb6up++lx1Xc/Heg45hVKnX8VgvYaeVSvNfylupV5OinVpnXqjeyv38mj9/j48Ojbf/hbF335e745gPd2Uu4w+y4IyF8kbz2UemY7yc2ssVeNMxNZFaYlIhtffnxdPNb3z9ssJtuWzOZmiEEcpw27am8pW2eq11I2YOtEP2/KZuvwLuAWHdD9eJja49H5MDVHD/Cho0dTUGjdBe2L7YJNyy6xe5KmIoM7RI+s9IP871sqgsoH5Du4dNmnglhnvoMS2wvuH+M7X2rJSUTzodxXTMtaal61tlpu6PbQ6O5CyrHb9lrbsNc2nlGczl2yqfy14L40QBYlhea5EBSUcu1a/uX6NVbkGguOHJb2jjCp+eZXSLMNHSY4O5+fwxechPBQxwV4q2q4+eSLZdlOqcIrdWp0PF7gxeiZXUl5d+wM5GggcKtGcw1xwDXEAfcEpZzRoLZm0K7lvGMfKeeVoiclmFIEWZGmWJMl9w7MBDozDEMKy0e0T3U1P8mBQGfGgHEt//R1zri+gTNeX5xxDJw595HhRc8Mjai47ai888yw0RhXcmZoXGOPZ4Z5BvhTRYh3mlkdGbZ+2DHFjN4oANwfzDe71Vc/lm92s0Fr3TXUE0kzJs6pE8l3mUj/Yl/+9JbXYMWXtzOUXqdxhFrp5XpnLL0azf62U94SYGkE16KfVzwLJjKppjPgvuAEoLrzeoZ0xDlnZBnp4F1NIdtWrTYUukeTp/ZC1vD1o8nhL1zH+sOqg/pgVONEpzqWN4tfPuXDi5+PObf/AQ==&lt;/diagram&gt;&lt;diagram name=&quot;ViewActivity&quot; id=&quot;HFq7FCK-MjjsdeRBBJfo&quot;&gt;5VnbUtswEP2aPNLxPeQxJNAyHWbShmnLEyNsxVbjWEZWbv36rmwpvsYQiCGlL2CtpLV09ujsyumZo8XmM0NxcEM9HPYMzdv0zHHPMHTdOod/wrLNLOe6NPiMeHJQbpiSP1gaNWldEg8npYGc0pCTuGx0aRRhl5dsiDG6Lg+b0bD81hj5uGaYuiisW38SjwdyF7aW279g4gfqzbomexZIDZaGJEAeXRdM5mXPHDFKefa02IxwKMBTuITf7wfXg7vVpP9ta0+vf1uP7P4sc3Z1yJTdFhiO+HFdG5nrFQqXEi+5V75VAPqMLuNnrkCudIUZx5um8KIH5TZHEKiH6QJztoVxcpZl2Nk8yTrDlEFY5zE0VAyDQvwcNRBJ3vg73zk28CDhOQAq82moAKnIw8KJ1jMv1gHheBojV/Su4XSBLeALeOlYh8dnQmrsgbQO3ftBYzVA44Tw2osZhc0VMXIel1R1nCWpWgxhgO7EmxQT1Q9Pvvg/3SYcL5Q7WF3mMeusBQAg4mWUUUj8CJ5dQBkzMAggCcjDUHYsiOeJ6RcMw3IkP0X4YkoiniJlX/TssfC15DRbcuo64YzO8YiGFPyOIxoJLzMShhXT0QO9URpWOiK6XTsh5w0s6IwEdo0EV5i7AWg/vCydfouSuWiRSCSBAIvYyfDuPUj60wcJMVemHVvrEG6nokiD/qc64rrRBLndEeTOiaq33j859e6/j3o7eyA9JfU+7069h95CHPaPL97Pj7PsHWhPiXf/LcV7UIsG9qCMlk2JRSEyOPKGojiHJo1xlFmuiHjp+AARlrAldMlc3KZMct8cMR+3Spg81mL1rWFgOEScrMqXhKPDqtbdJjvgBu5CVfqV+Nmp8KhebZfPJCftOidVJnuT7KZiWQBvAuc8yaJHkQcPD0vOafQe9cPBAFfqB71fz4mdVQ9T3/o5sK5W94Nb3bkcJfOzOGi4+w3TSchND0ahXhN/ViQhQl9L5RsRujwTwP4LEbCNCsMtqyEGVkccb4xBvWhu0YcCYkmAYtEPqjvliLerR2eSoZeTmN0Ap9lRFmtE06mD157FNoT/EhkLeJG17go9441MZmljqxoRrLQwSTTvin35tLSVz+sqY7Yd7mLCbCPgqeTLepl+g9gcLGMUkfTL5ATNSeSjXVXpkZWqKCfDr5pmmIV6s9BZo8b+cjPEM37Kxea+e9r+r2kV2WtSvYZzanVVbeqvv3KYxp4rh3L0oAw/CF7DhCy3DUVuI1xgMybIZ6j4aemh6uMj31gOJpFR+SSrO3UaWVoDjeyu5F5/odyr57uS9B9X7ssfE9wlW+0aR8oEavdP3p0aUkHbB7zjpYJ0KmwVbQsDJM9zzxNhKBRpdrmosKRY5ETJPOa02S3t5UwyX1o4/FdMsp9ZUxz9Dv4iIplatTq1X0MkaOY/9WXD8x9Mzcu/&lt;/diagram&gt;&lt;diagram id=&quot;dgKDAC5Hj-cHiz6_mHhh&quot; name=&quot;AdminDeleteActivity&quot;&gt;5Vlbc+I2FP41PJLxBdnkkcCm6ezsDB06u91HYSu2GltyhLj11/cIS747kN04oVsewDqSjqXv3D6JkTtPD78JnMVfeEiSkWOFh5G7GDnOdOrDtxIcc4HnOrkgEjTMRXYpWNF/iBZaWrqlIdnUBkrOE0mzujDgjJFA1mRYCL6vD3vkSf2tGY5IS7AKcNKWfqOhjPW2kFXKHwiNYvNm29I9KTaDtWAT45DvKyL308idC85l/pQe5iRR2Blc8nn3Pb3FwgRh8pIJz5+//v07W0rbj5MgZpt19MfDWGvZ4WSrN6wXK48GgUjwbaaHESHJoQt3vDbDrfa67GK34CWEp0SKIwzRiiYOyqdoD3FcrWJf4u0YvOMK1p4ZiLWNo0J3CQM8aCRegYpzHhUAhYVEKbFG7t0+ppKsMhyo3j0EAshimcJLFzY89qJXRanfPm3oPg4atwMaL4HX3j1y2EkVI+95y03HeHOK7BkMsL3scMLE9MNTpH5Xx40kqVEHq8s15p0tAwCUso4yTmjE4DkASIkAgQKcQijPdEdKw1BNvxMElqNdVpkv45TJE1LoboQWStdW8nzJJ9UbKfgTmfOEg94F40xpeaRJ0hC9uaFNGq2HiI1aETLt8ILBnMC+IEBADeRoUjcR5MBM9RMWriSWTRRrMA8Gpm1qi0YTee2E4w4E53iSsM3068O3DFK/t/Sfd2w+dt02eiFUId3UvlWBEXYvjn8p571Bpvld+/KpsTjUWkfdyl+jdP8AnrA+vhUBeWkjpkJjEZEXFTrdFhIkwZLu6st7e7zbVe+esvC08M2Tms3UbnU6Aqt7OFUZPf8GyYIkBJwXxsekmNVbIOzzBQKLQFMfZA3o+ci5qSeSidN2fXuCOnwfDZRK0McTENu/OgLiXQ0BQddGQPzhCMgsTFXk/y/5R4+dtZbbesXs4B/+e/KP6avrZThTZ0Fo8oywXHJP1UvLKvmO9RS162nnuNtLy2lPgru4nOqpS+WHlcTooBur8nHcuhf4Dfvm69RKGiYuVvXjVr89nxRL0tlPK4dMi0aL5TcKLWpHjDtQme2kPHYHVoNQzHpZCrZiVzTOReHQ0WR3sNNusH42nH7ucNXPTvl4rfhmeKKfJV+9Cub5ckS0mKdjvSPzfMHKNZyXUJg3VX6/3krJ2X8TYffDub09aSH8BQt1wFpgRk/3xEv8RFmEC9YV0p1hXMvZ57zkFHys0vkKOpaQR3m9ZOzM3WjjuNZl0Q7iNRns4qfruPY69u06PezbKFobQRGFf+an8lkAyZdKBc+C4kjg6l3huqnm1+XvZ06zt427wo7brYnX4TRosOutX4N7XHoJdjHNcN+EtcO28LEyQPtiL6lHqHH76VsNC+caL6Tu0Cz/wsqHl/8Dup/+BQ==&lt;/diagram&gt;&lt;diagram id=&quot;XdyFTrioVIjb535Hpkw3&quot; name=&quot;SetTaskStatus&quot;&gt;5Vltc9o4EP41zLQfmvELMuQj4ORupu1MenSm7acbYSu2LrbkyHKA/vpbYcn4jQBpCPTuC7ZWq7X07Gr3kRi4s3T1h8BZ/JmHJBk4VrgauP7AcWzLGcFDSdalZOQ6pSASNNRKW8Gc/iRmpJYWNCR5Q1FynkiaNYUBZ4wEsiHDQvBlU+2eJ82vZjgiHcE8wElX+o2GMi6lY2Rt5X8SGsXmy7ale1JslLUgj3HIlzWRezNwZ4JzWb6lqxlJFHgGl3Lc7Y7eamKCMHnIAMEXf/uf1sFfN//8fJxOR8Vs8uWDtvKEk0IvWE9Wrg0CkeBFptWIkGTVhzteGHWrOy+7Wi2ECeEpkWINKtrQ0EHlEB0hjqtNLLd4OwbvuIa1ZxSx9nFU2d7CAC8aiSNQcfajAqCwkCgj1sCdLmMqyTzDgepdwk4AWSxT+Khvw+tO9Ooo7fZPF7rzQeP2QOMl8NnpPYeV1DHyHgtuOj7km509AQXby1YbTEw/vEXqOV/nkqTGHMyutFh2dhwAUMomyjihEYP3ACAlAgQKcApbeaI7UhqGavhUEJiODlnlvoxTJjdIoekA+cpWIXk55Y3pXAr+QGY84WDXZ5wpK/c0SVqiV3f0yuSbxhaxUWeHjHui4GRBgPbvD7ACKZo0PQQpMFP9hIVziWUbxAbKJ8PSNqVFg4m8br5x3xJNrwteCDVIN3Vk1VCExYv1dxW6V8g0f+hI3jT8VaO11q3yM8r2C+CE+fFCBOQZPV3pJRYRec4e6nePIAmW9Kk5uVcHe9QJ3VvKws208wc1mKml6kwEHvdwqpJ5+QuSWYwZAFjp5xDHRf5MebD3lwcsAk18kHXCwEfOVTONDHsqrT1EPaGPTuSN8fnphz26OPpxfTH0Y3xp9MPk7lPwj0mYqt3/v6QfOxytrVw3K2YP/Ri9ZcF03CMr5ksr3/jAymc7B5Y++6y1z0zzMN62m5mdMrVUFwejVrFC3aBz37JU2cMjg+6lNK2Z2oNCPFUN4M0TdacBTZ4RVkpuqVrILzG8g+McHRrn3lnjvHs+aZI8GWNVKhghYa5IhOJ0lEWXRuee3yLIvmrdnNjXfXyu2khvs028DvZ3UO8UzO8Yl+/h6aut4liLQkrOfg+o3asWS3SH56bOdvck8xkLFd0+ZnRzC3uHHyCqccVpQvpk+Mzd5KNlqTpasZ1a5xFkJyH38nKpzp6Lx9ZpqM+jPbRmeDJu23caOo7bus4ObmsMLarLNqIMfi3z4VxnPWsSQHamUoHkUxwJXL+OW7SN/Xc58p4jo9fKuz03SMjpCR10MkZsd8D/HcnJoTdNpsjs5SGjX6Qhm6GwKryuKehQ3Fq+U4JatUCtC8bxuOXg0uLW3dXU+iIAmts/iUr17V9t7s2/&lt;/diagram&gt;&lt;diagram name=&quot;UserViewTask&quot; id=&quot;WdVefZLivBNLpAFCkBrF&quot;&gt;7Vpbl5s2EP41Pid52Bzuu36013HaNGmS42zS9KVHBi2oxogVwsb99ZVAMjf5lgWvd9sXG43EIL75ZjQjMTBvl9k7AuLgI/ZgODA0LxuYk4FhDK8d9ssFm0LgDO1C4BPkFSK9FMzQP1AINSFNkQeT2kCKcUhRXBe6OIqgS2syQAhe14fd47D+1Bj4sCWYuSBsS78jjwaF9MbWSvkvEPmBfLKuiZ4lkIOFIAmAh9cVkfl2YN4SjGlxtcxuYcixk7jcxe8W0Vd7aqXW5ps5Tt57TnZVKJuecsv2FQiMaLeqjUL1CoSpwEu8K91IAH2C0/jIGYiZriChMFOZF8yl2hJBxjyIl5CSDRsn7rIMwTLBOsMURliXNjSkDYOK/Rw5EAje+FvdJTbsQsBzAlTmYagYUpEHuRJtYI7XAaJwFgOX966ZczFZQJfsoROdXR4JqbED0jZ0TweNpYDGCdljx/eYvVwVI+chxbLjKsmjxYgN0J04yzGR/ezK5/+zTULhUqpjsys0Fp0tAzCIaB1lECI/YtcuQxkSJuBAIhYeRqJjiTyP3z4mkE1H8JObL8YoojlS9nhgT7iulOJiyrnqhBK8gLc4xEzvJMIR13KPwrAh6tzQmYxhNRfR7ZaH3ChY0BsJ7BYJppC6AYv97GH57V9BsmAtByy5K0TzJC4MnZs2iUGkZIpboMlZQvz5KzZ9Nj9N/r1WsgZxVTSAXGGTQMWDJIHqkwFJwljBPJgvUlsVacKYs9vX9cO+DogrVkZb65ER0us3Moi2g6auigx2B5zY3D3E7mq6enif/DlfZ9O/Pi2+XOlmCzfoseVZNIWDVICCGaJ/cAd8Y4vWj0rPJBO+mTc2shGxqVZu4s0f1b7ytrxV3ueNeILBmjiGUSGZIv6Gk9OtlOCUuHAfFjL7AcSHdN9AoZEjtdfqBIaAolU90enehnJRrzg2iriL3D0Xv3AaycSNwi8MVay0+8LU+t8vmnSv+sW+BeZS3OKI1JkEeDlPkyfIBWWvXl8RTKvNfLOnJEGN2k0bNZZeGdqUhw32zzOtLrM6FfD1NL037BsljKmIOs45sTfagbzA/ndMX6YFrAb7FUXkWVNk53DIeJJqW7++uGr7+ojo2kO17eyA9JKqbUUI7araLjK6l19rH29muQ16sNbuK5Qr5z9sWeNA+thNSidgq6Z06sAk3vtgSidri/PndHvnvS/qMDUoTpr0q/Gz17gje7XrN3VO2m1Oyvql65pmFkz01Wj46QOEaJz+vcyc70O5Gr3kkuZo/itKfSVm2mXRv50g/hrFKV9S4BKgsHimoYXY5xts5y/8T/aSRuGvK8qf3gp/NcTtqnGU3wXc3L7bTVIN8Z8VShBfJVmz3NFEfHW958g+BxPYRiNOWUOFEayeIpXaCEcc5ZRhvgJZEoCY97PgMaOA7l8Eeov8jZrets9X06vh/A9sZh0d+Y/dzJIcPH/o37cQVTziFYGvP2DglSHpGQSb5kav6gDkvPG+fSr2EZAFk0xAhPIvLT6DBYr8/Ewqr7s8tJI11+fRb5pmmJWKrNLZMsjugiyE9/SSy7FdGxm7Pw9oLCmqFUVhZqu3EKja2TmtJjeNHTW5VDSvF+naNwTX7G/EEwdEOTgTBHwCqmed86aSl1zUn8wiQ2ukh06bR5aKR12clyrD8MnHpT+5Kta3ztyUrLaNjhZMWQ0eWjDtY9dLo+v1Mr+VvSrYVAYIzpaaP3NBSRlTqydfjtg5LY1eaCwpsJ3aIw5NTt/ueUa02JePHD4r73wD6adoYTe/vLjW+qfF9rvEk2mh10hRcuSSaPG4s+IL4YXT4IV9UwsXB8ebw0fxiDXLz1OL4eU3vubbfwE=&lt;/diagram&gt;&lt;diagram name=&quot;SetTaskStatusUser&quot; id=&quot;Fd77pBKCk-LhWJh9_nos&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+>>>>>>> a9cbc7ccc603a8d059dc5e4e1022f2c1cb2cccc4
     <defs/>
     <g>
         <g/>
@@ -29,6 +33,7 @@
             </g>
         </g>
         <g>
+<<<<<<< HEAD
             <ellipse cx="505" cy="765" rx="11" ry="11" fill="#000000" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
             <ellipse cx="505" cy="765" rx="15" ry="15" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
         </g>
@@ -38,21 +43,36 @@
         </g>
         <g>
             <rect x="432.5" y="620" width="145" height="35" rx="17.5" ry="17.5" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+=======
+            <rect x="445" y="487.5" width="120" height="35" rx="17.5" ry="17.5" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+>>>>>>> a9cbc7ccc603a8d059dc5e4e1022f2c1cb2cccc4
         </g>
         <g>
             <g transform="translate(-0.5 -0.5)">
                 <switch>
                     <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+<<<<<<< HEAD
                         <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 143px; height: 1px; padding-top: 638px; margin-left: 434px;">
                             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                 <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                     Find task in system &amp; Change task status
+=======
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 505px; margin-left: 446px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Fetches all Tasks in the system
+>>>>>>> a9cbc7ccc603a8d059dc5e4e1022f2c1cb2cccc4
                                 </div>
                             </div>
                         </div>
                     </foreignObject>
+<<<<<<< HEAD
                     <text x="505" y="641" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
                         Find task in system &amp; Ch...
+=======
+                    <text x="505" y="509" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        Fetches all Tasks in...
+>>>>>>> a9cbc7ccc603a8d059dc5e4e1022f2c1cb2cccc4
                     </text>
                 </switch>
             </g>
@@ -85,57 +105,102 @@
             </g>
         </g>
         <g>
+<<<<<<< HEAD
             <path d="M 255 280 L 255 373.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
             <path d="M 255 378.88 L 251.5 371.88 L 255 373.63 L 258.5 371.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+=======
+            <path d="M 255 280 L 255 357.76" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 251.5 351.88 L 255 358.88 L 258.5 351.88" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+>>>>>>> a9cbc7ccc603a8d059dc5e4e1022f2c1cb2cccc4
         </g>
         <g>
             <ellipse cx="255" cy="262.5" rx="17.5" ry="17.5" fill="#000000" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
         </g>
         <g>
+<<<<<<< HEAD
             <path d="M 255.17 415 L 256.23 527.76" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
             <path d="M 252.67 521.92 L 256.24 528.88 L 259.67 521.85" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
         </g>
         <g>
             <rect x="181.25" y="380" width="147.5" height="35" rx="17.5" ry="17.5" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+=======
+            <rect x="195" y="360" width="120" height="35" rx="17.5" ry="17.5" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+>>>>>>> a9cbc7ccc603a8d059dc5e4e1022f2c1cb2cccc4
         </g>
         <g>
             <g transform="translate(-0.5 -0.5)">
                 <switch>
                     <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+<<<<<<< HEAD
                         <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 146px; height: 1px; padding-top: 398px; margin-left: 182px;">
                             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                 <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                     Find task that needs changing status
+=======
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 378px; margin-left: 196px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Press reload button
+>>>>>>> a9cbc7ccc603a8d059dc5e4e1022f2c1cb2cccc4
                                 </div>
                             </div>
                         </div>
                     </foreignObject>
+<<<<<<< HEAD
                     <text x="255" y="401" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
                         Find task that needs cha...
+=======
+                    <text x="255" y="381" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        Press reload button
+>>>>>>> a9cbc7ccc603a8d059dc5e4e1022f2c1cb2cccc4
                     </text>
                 </switch>
             </g>
         </g>
         <g>
+<<<<<<< HEAD
             <rect x="183.75" y="530" width="145" height="35" rx="17.5" ry="17.5" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+=======
+            <rect x="182.5" y="630" width="145" height="35" rx="17.5" ry="17.5" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+>>>>>>> a9cbc7ccc603a8d059dc5e4e1022f2c1cb2cccc4
         </g>
         <g>
             <g transform="translate(-0.5 -0.5)">
                 <switch>
                     <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+<<<<<<< HEAD
                         <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 143px; height: 1px; padding-top: 548px; margin-left: 185px;">
                             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                 <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                     Press (not) Done button
+=======
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 143px; height: 1px; padding-top: 648px; margin-left: 184px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    All active Tasks is visible in the interface
+>>>>>>> a9cbc7ccc603a8d059dc5e4e1022f2c1cb2cccc4
                                 </div>
                             </div>
                         </div>
                     </foreignObject>
+<<<<<<< HEAD
                     <text x="256" y="551" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
                         Press (not) Done button
+=======
+                    <text x="255" y="651" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        All active Tasks is visi...
+>>>>>>> a9cbc7ccc603a8d059dc5e4e1022f2c1cb2cccc4
                     </text>
                 </switch>
             </g>
+        </g>
+        <g>
+            <ellipse cx="255" cy="745" rx="11" ry="11" fill="#000000" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <ellipse cx="255" cy="745" rx="15" ry="15" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 255 665 L 255 727.76" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 251.5 721.88 L 255 728.88 L 258.5 721.88" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
         </g>
         <g>
             <rect x="0" y="0" width="140" height="40" fill="none" stroke="none" pointer-events="all"/>
@@ -162,7 +227,11 @@
             </g>
         </g>
         <g>
+<<<<<<< HEAD
             <rect x="120" y="120" width="520" height="50" fill="none" stroke="none" pointer-events="all"/>
+=======
+            <rect x="180" y="120" width="400" height="50" fill="none" stroke="none" pointer-events="all"/>
+>>>>>>> a9cbc7ccc603a8d059dc5e4e1022f2c1cb2cccc4
         </g>
         <g>
             <g transform="translate(-0.5 -0.5)">
@@ -173,7 +242,11 @@
                                 <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
                                     <font style="font-size: 32px;">
                                         <b>
+<<<<<<< HEAD
                                             Set Task Status Activity Diagram
+=======
+                                            View All Activity Diagram
+>>>>>>> a9cbc7ccc603a8d059dc5e4e1022f2c1cb2cccc4
                                         </b>
                                     </font>
                                 </div>
@@ -181,14 +254,27 @@
                         </div>
                     </foreignObject>
                     <text x="380" y="149" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+<<<<<<< HEAD
                         Set Task Status Activity Diagram
+=======
+                        View All Activity Diagram
+>>>>>>> a9cbc7ccc603a8d059dc5e4e1022f2c1cb2cccc4
                     </text>
                 </switch>
             </g>
         </g>
         <g>
+<<<<<<< HEAD
             <path d="M 328.75 547.65 L 505 548 L 505 617.76" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
             <path d="M 501.5 611.88 L 505 618.88 L 508.5 611.88" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+=======
+            <path d="M 315 377.5 L 505 378 L 505 485.26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 501.5 479.38 L 505 486.38 L 508.5 479.38" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 445 505 L 255 505 L 255 627.76" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 251.5 621.88 L 255 628.88 L 258.5 621.88" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+>>>>>>> a9cbc7ccc603a8d059dc5e4e1022f2c1cb2cccc4
         </g>
     </g>
     <switch>
